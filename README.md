@@ -1,2 +1,2 @@
 # Module3-solution
-This Coursera HTML,CSS &amp; JAVASCRIPT Course 
+This is Coursera HTML,CSS &amp; JAVASCRIPT Course 
